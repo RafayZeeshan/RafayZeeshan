@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rafay</h1>
 <h4 align="left">An aspiring Business Analyst learning to uncover the stories behind numbers</h4>
 
-  <h5 align='left'> Head over to my repositories to explore my projects!</h5>
+<h5 align='left'> Head over to my repositories to explore my projects!</h5>
 
 - 🔭 I’m currently doing my Masters in **Business Analytics**
 
