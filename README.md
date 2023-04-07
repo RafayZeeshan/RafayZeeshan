@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently doing my Masters in **Business Analytics**
 
-- 🌱 I’m currently learning **Investment Analysis and Marketing Analytics**
+- 🌱 I’m currently learning **Marketing Analytics & Power BI**
 
 - 🤝 I’m looking for Trainee positions **in Analytics**
 
