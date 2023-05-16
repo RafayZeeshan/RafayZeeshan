@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently doing my Masters in **Business Analytics**
 
-- 🌱 I’m currently learning **Marketing Analytics & Power BI**
+- 🌱 I’m currently learning **Database Migration & Power BI**
 
-- 🤝 I’m looking for Trainee positions **in Analytics**
+- 🤝Currently working as a Data Trainee at Stora Enso
 
 - 💬 Ask me about **Data Visualisation**
 
