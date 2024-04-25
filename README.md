@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Database Migration & Power BI**
 
-- 🤝Currently working as a Data Trainee at Stora Enso
+- 🤝Currently working working on my Master Thesis at Stora Enso
 
-- 💬 Ask me about **Data Visualisation**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **rafayzshan@gmail.com**
 ---
